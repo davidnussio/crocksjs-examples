@@ -1,0 +1,26 @@
+{
+  "name": "crocksjs-examples",
+  "version": "1.0.0",
+  "description": "Exported examples from crocks.dev",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "start": "terminal-playground"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davidnussio/crocksjs-examples.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davidnussio/crocksjs-examples/issues"
+  },
+  "homepage": "https://github.com/davidnussio/crocksjs-examples#readme",
+  "dependencies": {
+    "terminal-playground": "^0.1.2"
+  }
+}
